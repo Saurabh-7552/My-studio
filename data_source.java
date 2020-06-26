@@ -9,7 +9,7 @@ public class data_source {
     public static final String albums_table="albums";
     public static final String artists_table="artists";
 
-    public static final String path_name="jdbc:sqlite:C:\\Users\\User\\music.db";
+    public static final String path_name="jdbc:sqlite:C:\\Users\\User\\music.db";     //path where database file is stored  .
 
     public static final String songs_track="track";
     public static final String songs_title="title";
